@@ -7,3 +7,6 @@ A taxa de Churn reflete a saúde geral de um negócio através dos dados.
 
 ## Sobre o projeto
 Uma empresa fornecedora de aplicativo para gestão de atividades do dia a dia está enfrentando um aumento na taxa de churn de seus clientes que impacta negativamente a receita e o crescimento da empresa. A diretoria e o gestor da área de Sucesso do Cliente e Pós-venda estão buscando entender os fatores que contribuem para esse aumento e identificar soluções para reverter esse cenário
+
+## Linguagens e tecnologias utilizadas
+[Python 3.13]([https://www.google.com](https://www.python.org/))
