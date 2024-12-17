@@ -44,3 +44,5 @@ Em azul temos todos os motivos de cancelamento e podemos analisar que os dois ma
 
 ![Descrição da imagem](https://github.com/Pedro-HenriqueWO/Estudo-Churn/blob/master/Captura%20de%20tela%202024-12-17%20172027.png)
 
+Dois dos fatores mais preponderantes na taxa de cancelamento estão associados à competitividade no mercado de telecomunicação, totalizando cerca de 33% da taxa global. O terceiro fator está relacionado a um atendimento inadequado prestado pelos colaboradores do setor de suporte ao cliente, tornando-o um aspecto de primordial importância a ser abordado.
+
