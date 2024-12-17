@@ -55,4 +55,7 @@ Ao observarmos as atividades dos consultores em conjunto com a taxa de churn, id
 ![Descrição da imagem](https://github.com/Pedro-HenriqueWO/Estudo-Churn/blob/master/Captura%20de%20tela%202024-12-17%20175303.png)
 
 Ao analisar o gráfico de Churn x Ano, podemos observar uma alta contínua desde 2021 em nossa base de clientes (representada no eixo Y). Isso nos leva a supor que já havia uma falha em nossos processos desde 2021, a qual pode ter contribuído para esse crescimento.
+- **Ação corretiva urgente:** A aceleração no aumento de churn entre 2022 e 2023 pode ser um reflexo de falhas em algum processo, como atendimento ao cliente, qualidade de serviço ou aumento da concorrência. Pode ser necessário investigar mais a fundo as causas.
+- **Necessidade de retenção de clientes:** Estratégias de fidelização e retenção precisam ser revistas para reduzir esse crescimento e evitar que ele se prolongue em 2024.
+
 
