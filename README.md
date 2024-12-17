@@ -32,5 +32,7 @@ Uma empresa fornecedora de aplicativo para gestão de atividades do dia a dia es
 
 ## Gráficos
 
+Com a base de dados fornecida, após o processo de ETL, foram gerados três histogramas importantes, a partir dos quais podemos tomar decisões baseadas nos resultados obtidos.
+
 ![Descrição da imagem](https://github.com/Pedro-HenriqueWO/Estudo-Churn/blob/master/Captura%20de%20tela%202024-12-17%20172027.png)
 
