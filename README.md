@@ -28,11 +28,15 @@ Uma empresa fornecedora de aplicativo para gestão de atividades do dia a dia es
    - **3.2** Excluir colunas desnecessárias  
    - **3.3** Analisar as células vazias  
 - **Passo 4:** Analisar os dados  
-   - **4.1** Analisar Graficamente  
+   - **4.1** Analisar Graficamente
+
+ ## Pontos importantes
+ Dentro da análise feita foi obtida uma Taxa de Churn de 45,43%, ou seja, foram 7285 contratos de clientes perdidos no período estudado. Segundo pesquisas e leituras na rede, uma taxa de churn aceitável para que o serviço seja considerado saudável deve estar entre **5–7% anual ( 0.42–0.58% mensal),** mostrando que a taxa encontrada para a empresa foi extremamente alta.
 
 ## Gráficos
 
 Com a base de dados fornecida, após o processo de ETL, foram gerados três histogramas importantes, a partir dos quais podemos tomar decisões baseadas nos resultados obtidos.
 
+Em azul temos todos os motivos de cancelamento e podemos analisar que os dois maiores fatores para o Churn dos nossos clientes são os "Cliente insatisfeito" , "Não tem interesse" , "Já possui serviço similar"
 ![Descrição da imagem](https://github.com/Pedro-HenriqueWO/Estudo-Churn/blob/master/Captura%20de%20tela%202024-12-17%20172027.png)
 
