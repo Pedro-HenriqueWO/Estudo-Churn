@@ -52,3 +52,5 @@ Ao observarmos as atividades dos consultores em conjunto com a taxa de churn, id
 - **Má Comunicação:** Falhas na comunicação entre a equipe de suporte ao cliente e os clientes podem causar frustrações e insatisfação.
 - **Pouca Agilidade:** Se as solicitações dos clientes não forem tratadas de maneira rápida e eficiente, isso pode levar a uma experiência insatisfatória.
 
+![Descrição da imagem](https://github.com/Pedro-HenriqueWO/Estudo-Churn/blob/master/Captura%20de%20tela%202024-12-17%20175303.png)
+
