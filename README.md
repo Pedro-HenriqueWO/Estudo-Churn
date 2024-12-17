@@ -41,5 +41,6 @@ Em azul temos todos os motivos de cancelamento e podemos analisar que os dois ma
 - **"Cliente insatisfeito"**
 - **"Não tem interesse"**
 - **"Já possui serviço similar"**
+
 ![Descrição da imagem](https://github.com/Pedro-HenriqueWO/Estudo-Churn/blob/master/Captura%20de%20tela%202024-12-17%20172027.png)
 
