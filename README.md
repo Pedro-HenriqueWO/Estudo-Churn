@@ -37,6 +37,9 @@ Uma empresa fornecedora de aplicativo para gestão de atividades do dia a dia es
 
 Com a base de dados fornecida, após o processo de ETL, foram gerados três histogramas importantes, a partir dos quais podemos tomar decisões baseadas nos resultados obtidos.
 
-Em azul temos todos os motivos de cancelamento e podemos analisar que os dois maiores fatores para o Churn dos nossos clientes são os "Cliente insatisfeito" , "Não tem interesse" , "Já possui serviço similar"
+Em azul temos todos os motivos de cancelamento e podemos analisar que os dois maiores fatores para o Churn dos nossos clientes são:
+- **"Cliente insatisfeito"**
+- **"Não tem interesse"**
+- **"Já possui serviço similar"**
 ![Descrição da imagem](https://github.com/Pedro-HenriqueWO/Estudo-Churn/blob/master/Captura%20de%20tela%202024-12-17%20172027.png)
 
