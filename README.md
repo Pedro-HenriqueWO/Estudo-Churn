@@ -54,3 +54,5 @@ Ao observarmos as atividades dos consultores em conjunto com a taxa de churn, id
 
 ![Descrição da imagem](https://github.com/Pedro-HenriqueWO/Estudo-Churn/blob/master/Captura%20de%20tela%202024-12-17%20175303.png)
 
+Ao analisar o gráfico de Churn x Ano, podemos observar uma alta contínua desde 2021 em nossa base de clientes (representada no eixo Y). Isso nos leva a supor que já havia uma falha em nossos processos desde 2021, a qual pode ter contribuído para esse crescimento.
+
