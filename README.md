@@ -17,7 +17,7 @@ Uma empresa fornecedora de aplicativo para gestão de atividades do dia a dia es
 
  • [Power BI](https://www.microsoft.com/pt-br/power-platform/products/power-bi)
 
- • [Excel]((https://www.microsoft.com/pt-br/microsoft-365/excel))
+ • [Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)
 
 ## Passo a Passo da solução
 
