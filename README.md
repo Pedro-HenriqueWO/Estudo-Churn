@@ -5,5 +5,5 @@
 A Taxa de Churn, às vezes denominada de “taxa de cancelamento”, é um indicador de extrema relevância no cenário empresarial . A partir deste cálculo, é possível não apenas quantificar a perda de clientes que uma empresa enfrentou, mas também obter insights valiosos que revelam a eficácia de suas estratégias de retenção.
 A taxa de Churn reflete a saúde geral de um negócio através dos dados.
 
-## Estudo de caso
+## Sobre o projeto
 Uma empresa fornecedora de aplicativo para gestão de atividades do dia a dia está enfrentando um aumento na taxa de churn de seus clientes que impacta negativamente a receita e o crescimento da empresa. A diretoria e o gestor da área de Sucesso do Cliente e Pós-venda estão buscando entender os fatores que contribuem para esse aumento e identificar soluções para reverter esse cenário
