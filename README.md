@@ -11,8 +11,9 @@ Uma empresa fornecedora de aplicativo para gestão de atividades do dia a dia es
 ## Linguagens e tecnologias utilizadas
 [Python 3.13](https://www.python.org/)
 
-[Visual Studio Code]([https://www.python.org/](https://code.visualstudio.com/download))
+[Visual Studio Code](https://code.visualstudio.com/download)
 
-[Jupyter Notebook]([https://www.python.org/](https://jupyter.org/))
+[Jupyter Notebook](https://jupyter.org/)
 
 [Power BI](https://www.microsoft.com/pt-br/power-platform/products/power-bi)
+
