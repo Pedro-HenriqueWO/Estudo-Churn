@@ -1,5 +1,4 @@
 # Estudo-Churn
-Estudo de Churn 
 
 ## O que é Churn?
 
