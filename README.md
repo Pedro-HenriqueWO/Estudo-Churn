@@ -44,5 +44,7 @@ Em azul temos todos os motivos de cancelamento e podemos analisar que os dois ma
 
 ![Descrição da imagem](https://github.com/Pedro-HenriqueWO/Estudo-Churn/blob/master/Captura%20de%20tela%202024-12-17%20172027.png)
 
-Dois dos fatores mais preponderantes na taxa de cancelamento estão associados à competitividade no mercado de telecomunicação, totalizando cerca de 33% da taxa global. O terceiro fator está relacionado a um atendimento inadequado prestado pelos colaboradores do setor de suporte ao cliente, tornando-o um aspecto de primordial importância a ser abordado.
+Um dos maiores fatores para a alta taxa de churn de clientes é a alta competitividade e serviços que se equiparam ao que já foi estudado. Sabendo disso, buscar inovações, novas formas de atrair clientes e manter a atualização constante de acordo com o público-alvo que queremos atingir são algumas das estratégias que podemos adotar para mitigar essa taxa.
+
+![Descrição da imagem](https://github.com/Pedro-HenriqueWO/Estudo-Churn/blob/master/Captura%20de%20tela%202024-12-17%20174548.png)
 
