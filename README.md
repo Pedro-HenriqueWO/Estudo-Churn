@@ -58,4 +58,8 @@ Ao analisar o gráfico de Churn x Ano, podemos observar uma alta contínua desde
 - **Ação corretiva urgente:** A aceleração no aumento de churn entre 2022 e 2023 pode ser um reflexo de falhas em algum processo, como atendimento ao cliente, qualidade de serviço ou aumento da concorrência. Pode ser necessário investigar mais a fundo as causas.
 - **Necessidade de retenção de clientes:** Estratégias de fidelização e retenção precisam ser revistas para reduzir esse crescimento e evitar que ele se prolongue em 2024.
 
+## Possíveis melhorias 
+O ponto principal para melhorar a saúde do negócio é a melhoria da experiência do cliente. Investir na qualidade dos serviços e no atendimento ao cliente pode aumentar a satisfação geral e reduzir as razões para o cancelamento.
+É Possível que a primeira experiência dos clientes com os serviços estejam sendo ruins ou, também, que a captação de clientes esteja trazendo clientes desqualificados, sendo necessário mudar as estratégias de marketing. Para entender melhores motivos vale a pena enviar uma pesquisa de satisfação para ajudar a identificar os padrões que ocasionam essa alta taxa de churn e, com isso, fornecer sugestões de melhoria.
+
 
