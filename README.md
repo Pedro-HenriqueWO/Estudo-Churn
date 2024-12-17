@@ -30,3 +30,7 @@ Uma empresa fornecedora de aplicativo para gestão de atividades do dia a dia es
 - **Passo 4:** Analisar os dados  
    - **4.1** Analisar Graficamente  
 
+## Gráficos
+
+![Descrição da imagem](https://github.com/Pedro-HenriqueWO/Estudo-Churn/blob/master/Captura%20de%20tela%202024-12-17%20172027.png)
+
