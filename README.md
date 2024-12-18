@@ -8,5 +8,8 @@ Nestes arquivos estão encontrados todas análises e predições.
 
 • [Predição](https://github.com/Pedro-HenriqueWO/Estudo-Churn/blob/master/Predi%C3%A7%C3%A3o.md)
 
+• [Código utilizado para predição de Churn](https://github.com/Pedro-HenriqueWO/Estudo-Churn/tree/master/Estudo%20de%20churn)
+
+
 
 
