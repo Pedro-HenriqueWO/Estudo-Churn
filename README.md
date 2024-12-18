@@ -10,7 +10,7 @@ Nestes arquivos estão encontrados todas análises e predições.
 
 • [Código utilizado para predição de Churn](https://github.com/Pedro-HenriqueWO/Estudo-Churn/tree/master/Estudo%20de%20churn)
 
-• [Dashboarda](https://github.com/Pedro-HenriqueWO/Estudo-Churn/raw/refs/heads/master/Teste%20SEGSAT.pbix)
+• [Dashboard](https://github.com/Pedro-HenriqueWO/Estudo-Churn/raw/refs/heads/master/Teste%20SEGSAT.pbix)
 
 
 
