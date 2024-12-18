@@ -34,6 +34,12 @@ Ao inserir os dados em uma base Excel, foi realizado o processo de ETL utilizand
 
 Ao analisar os gráficos, foi observada que a taxa de churn prevista para os próximos 3 meses é de 75,46%. Ou seja, caso não haja mudanças em certos aspectos e fatores que impactam essa taxa de churn, ela aumentaria drasticamente, comprometendo a saúde da empresa e trazendo-a para um nível mais crítico.
 
-• [output 1](https://github.com/Pedro-HenriqueWO/Estudo-Churn/blob/master/output%201.png)
+[Imagem 1](https://github.com/Pedro-HenriqueWO/Estudo-Churn/blob/master/output%201.png?raw=true)
+
+Visto isso, uma estratégia eficaz seria melhorar o engajamento da empresa com seus clientes, uma vez que o alto número de clientes que provavelmente não utilizarão mais nossos serviços e deixarão o aplicativo nos próximos 3 meses indica a necessidade de ações proativas para reverter esse quadro.
+
+[Imagem 2](https://github.com/Pedro-HenriqueWO/Estudo-Churn/blob/master/output%201.png?raw=true)
+
+
 
 
