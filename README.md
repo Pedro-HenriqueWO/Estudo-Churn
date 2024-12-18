@@ -4,6 +4,9 @@ Neste desafio, estou analisando um estudo de caso e utilizando os dados extraíd
 ## Arquivos
 Nestes arquivos estão encontrados todas análises e predições.
 
-• [Análise exploratória com estratégias](https://github.com/Pedro-HenriqueWO/Estudo-Churn/blob/master/Estudo%20de%20churn.md)
+• [Apresentação da análise exploratória com estratégias](https://github.com/Pedro-HenriqueWO/Estudo-Churn/blob/master/Estudo%20de%20churn.md)
+
+• [Predição](https://github.com/Pedro-HenriqueWO/Estudo-Churn/blob/master/Predi%C3%A7%C3%A3o.md)
+
 
 
